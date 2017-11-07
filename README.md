@@ -1,4 +1,4 @@
-https://github.com/Inka13/tic-tac-toe-game/
+https://inka13.github.io/tic-tac-toe-game/
 
 Unbeatable game of tic tac toe !
 
